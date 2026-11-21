@@ -1,0 +1,14 @@
+.DS_Store
+.workbuddy/
+
+# 构建产物 / 大文件
+归档.zip
+*.app/
+*.zip
+
+# 本地 Python 缓存
+__pycache__/
+*.py[cod]
+
+# ffmpeg 二进制（体积大，按需自行放置）
+RemuxTool/bin/ffmpeg
