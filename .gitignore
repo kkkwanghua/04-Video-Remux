@@ -5,6 +5,7 @@
 归档.zip
 *.app/
 *.zip
+dist/
 
 # 本地 Python 缓存
 __pycache__/
